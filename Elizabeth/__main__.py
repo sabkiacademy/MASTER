@@ -59,7 +59,7 @@ buttons += [[InlineKeyboardButton(text="SERVICES🙏",
 ]]
 
 buttons += [[InlineKeyboardButton(text="🇮🇳UNT EDUCATION📕",
-                                  url="https://t.me/UNT_EDUCATION""),
+                                  url="https://t.me/UNT_EDUCATION"),
              InlineKeyboardButton(text="THE 🇮🇳》U『N』T℠巜★",
                                   url="https://t.me/the_unt"),
 ]]
