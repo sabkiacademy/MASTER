@@ -38,11 +38,8 @@ from Elizabeth.modules.helper_funcs.misc import paginate_modules
 from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
-'Hi..Welcome`[🔥](https://telegra.ph/file/e39fc0deb4c2218f093ff.jpg)  
-`I'm` MASTER
-`A POWERFUL BOT FOR MANAGING AND PROTECTING YOUR GROUP ..`
-"""
-
+MASTER [😎](https://telegra.ph/file/8915f4701935e7242111c.jpg)
+is here to help you use the below command so that you know about my conductive features
 buttons = [[InlineKeyboardButton(text="ABOUT MASTER🇮🇳",
                                   url="https://t.me/UNT_USERBOT/8"),
 ]]
