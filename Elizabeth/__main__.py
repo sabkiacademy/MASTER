@@ -39,35 +39,27 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Welcome`[😎](https://telegra.ph/file/e39fc0deb4c2218f093ff.jpg)  
-`HEY MASTER IS HERE'
-`MASTER IS ALL PURPOSE POWERFUL GROUP MANAGING BOT WITH A CLASS FUNCTIONS. MASTER WILL MANAGE PROTECT AND EVEN GROW YOUR CHAT ADD THE BOT TO YOUR GROUP AND KEEP SHARING IT  FOR MORE INFO GO TO THE BUTTONS BELOW ..`
+`Hi..Welcome` [🔥](https://telegra.ph/file/297476c0d91e6db025540.jpg)  
+`I'm`  UNT FED BOT
+`a bot for federation actions connected to huge number of groups check out the below buttons for more info ..`
 """
 
-buttons = [
-    [
-        InlineKeyboardButton(
-            text="🔲INVITE MASTER TO YOUR GROUP🔲", url="t.me/python_pirates_bot?startgroup=true"),
-    ],
-    [
-        InlineKeyboardButton(text="ABOUT MASTER🇮🇳", url="https://t.me/UNT_USERBOT/8"),
-        InlineKeyboardButton(text="SERVICES🙏", callback_data="help_back"),
-    ],
-    [
-        InlineKeyboardButton(
-            text="THE 🇮🇳》U『N』T℠巜★", url="t.me/the_unt"),
-        InlineKeyboardButton(
-            text="💐SUPPORT CHAT💐", url="https://t.me/untchats"),
-    ],
-    [  
-        InlineKeyboardButton(text="🇮🇳UNT EDUCATION📕", url="https://t.me/UNT_EDUCATION"
-    ),
-    ], 
-    [
-        InlineKeyboardButton(text="🔥MASTERS HOME🔥", url="https://t.me/your_handler"
-    ), 
-    ],
-]
+buttons = [[InlineKeyboardButton(text=" ABOUT UNT BOT 🇮🇳",
+                                  url="https://t.me/THE_UNT"),
+]]
+
+buttons += [[InlineKeyboardButton(text="ADD ME TO YOUR CHATS ",
+                                  url="t.me/UNTFEDBOT?startgroup=true"),
+]]
+
+buttons += [[InlineKeyboardButton(text="SOURCE CODE OR REPO",
+                                  url="https://t.me/PYTHONPIRATES/41"),
+             InlineKeyboardButton(text="SUPPORT🌳",
+                                  url="https://t.me/untchats"),
+]]
+
+buttons += [[InlineKeyboardButton(text="ABOUT UNT FED",
+                                  url="https://t.me/UNTFED")]] 
  
  
 HELP_STRINGS = f"""
