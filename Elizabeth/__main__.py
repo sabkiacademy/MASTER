@@ -39,7 +39,7 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`MASTER HERE` [😎](https://telegra.ph/file/e39fc0deb4c2218f093ff.jpg)  
+`Hi..Welcome`[😎](https://telegra.ph/file/e39fc0deb4c2218f093ff.jpg)  
 `HEY MASTER IS HERE'
 `MASTER IS ALL PURPOSE POWERFUL GROUP MANAGING BOT WITH A CLASS FUNCTIONS. MASTER WILL MANAGE PROTECT AND EVEN GROW YOUR CHAT ADD THE BOT TO YOUR GROUP AND KEEP SHARING IT  FOR MORE INFO GO TO THE BUTTONS BELOW ..`
 """
