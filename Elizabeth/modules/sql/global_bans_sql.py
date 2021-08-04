@@ -1,6 +1,6 @@
 import threading
 
-from elizabeth.modules.sql import BASE, SESSION
+from Elizabeth.modules.sql import BASE, SESSION
 from sqlalchemy import Boolean, Column, Integer, String, UnicodeText
 
 
