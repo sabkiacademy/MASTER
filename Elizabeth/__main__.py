@@ -38,7 +38,7 @@ from Elizabeth.modules.helper_funcs.misc import paginate_modules
 from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
-MASTER [😎](https://telegra.ph/file/8915f4701935e7242111c.jpg)
+[MASTER](https://telegra.ph/file/8915f4701935e7242111c.jpg)
 is here to help you use the below command so that you know about my conductive features
 buttons = [[InlineKeyboardButton(text="ABOUT MASTER🇮🇳",
                                   url="https://t.me/UNT_USERBOT/8"),
