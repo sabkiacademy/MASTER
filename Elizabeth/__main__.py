@@ -51,7 +51,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="ABOUT MASTER🇮🇳", url="https://t.me/UNT_USERBOT/8"),
-        InlineKeyboardButton(text="SERVICES🙏", callback_data="help_back"),◽️
+        InlineKeyboardButton(text="SERVICES🙏", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
