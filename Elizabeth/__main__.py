@@ -39,9 +39,9 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Welcome` [🔥](https://telegra.ph/file/297476c0d91e6db025540.jpg)  
-`I'm`  UNT FED BOT
-`a bot for federation actions connected to huge number of groups check out the below buttons for more info ..`
+'MASTER IS... HERE'[😎](https://telegra.ph/file/e39fc0deb4c2218f093ff.jpg)   
+`MASTERS ROOM'
+`MASTER IS ALL PURPOSE POWERFUL GROUP MANAGING BOT WITH A CLASS FUNCTIONS. MASTER WILL MANAGE PROTECT YOUR GROUP FOR MORE INFO GO TO THE BUTTONS BELOW  ..`
 """
 
 buttons = [[InlineKeyboardButton(text="ABOUT MASTER🇮🇳",
