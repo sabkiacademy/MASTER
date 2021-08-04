@@ -38,7 +38,7 @@ from Elizabeth.modules.helper_funcs.misc import paginate_modules
 from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
-`Hi..Welcome` [🔥](https://telegra.ph/file/e39fc0deb4c2218f093ff.jpg)  
+'Hi..Welcome`[🔥](https://telegra.ph/file/e39fc0deb4c2218f093ff.jpg)  
 `I'm` MASTER
 `A POWERFUL BOT FOR MANAGING AND PROTECTING YOUR GROUP ..`
 """
