@@ -44,22 +44,28 @@ PM_START_TEXT = f"""
 `a bot for federation actions connected to huge number of groups check out the below buttons for more info ..`
 """
 
-buttons = [[InlineKeyboardButton(text=" ABOUT UNT BOT 🇮🇳",
-                                  url="https://t.me/THE_UNT"),
+buttons = [[InlineKeyboardButton(text="ABOUT MASTER🇮🇳",
+                                  url="https://t.me/UNT_USERBOT/8"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="ADD ME TO YOUR CHATS ",
-                                  url="t.me/UNTFEDBOT?startgroup=true"),
+buttons += [[InlineKeyboardButton(text="🔲INVITE MASTER TO YOUR GROUP🔲",
+                                  url="t.me/python_pirates_bot?startgroup=true"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="SOURCE CODE OR REPO",
-                                  url="https://t.me/PYTHONPIRATES/41"),
-             InlineKeyboardButton(text="SUPPORT🌳",
+buttons += [[InlineKeyboardButton(text="SERVICES🙏",
+                                  callback_data="help_back""),
+             InlineKeyboardButton(text="💐SUPPORT CHAT💐",
                                   url="https://t.me/untchats"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="ABOUT UNT FED",
-                                  url="https://t.me/UNTFED")]] 
+buttons += [[InlineKeyboardButton(text="🇮🇳UNT EDUCATION📕",
+                                  url="https://t.me/UNT_EDUCATION""),
+             InlineKeyboardButton(text="THE 🇮🇳》U『N』T℠巜★",
+                                  url="https://t.me/the_unt"),
+]]
+
+buttons += [[InlineKeyboardButton(text="🔥MASTERS HOME🔥",
+                                  url="https://t.me/your_handler")]] 
  
  
 HELP_STRINGS = f"""
