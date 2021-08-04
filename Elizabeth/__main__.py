@@ -38,8 +38,11 @@ from Elizabeth.modules.helper_funcs.misc import paginate_modules
 from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
-'HI.. I AM' [MASTER](https://telegra.ph/file/8915f4701935e7242111c.jpg)
-'is' here to help you use the below command so that you know about my conductive features
+PM_START_TEXT = f"""
+`Hi..Welcome`[😎](https://telegra.ph/file/8915f4701935e7242111c.jpg)
+`I'm` MASTER
+`I'M HERE TO MANAGE AND PROTECT YOUR GROUP.. USE THE BELOW BUTTONS TO KNOW ABOUT MASTERS CONDUCTIVE POWERES AND COMMANDS..`
+""" 
 
 buttons = [[InlineKeyboardButton(text="ABOUT MASTER🇮🇳",
                                   url="https://t.me/UNT_USERBOT/8"),
