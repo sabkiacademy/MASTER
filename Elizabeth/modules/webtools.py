@@ -57,7 +57,7 @@ def ping(update, context):
     end_time = time.time()
     ping_time = round((end_time - start_time) * 1000, 3)
     message.edit_text(
-        "*Pong!!!*\n`{}ms`".format(ping_time), parse_mode=ParseMode.MARKDOWN
+        "*Pong parv's master!!!*\n`{}ms`".format(ping_time), parse_mode=ParseMode.MARKDOWN
     )
 
 
